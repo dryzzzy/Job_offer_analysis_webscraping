@@ -1,0 +1,61 @@
+name;company;technology;job;location_city;location_country;salary_low;salary_high;salary_curr
+Senior Data Analyst - Remote;Infogain Technologies Sp. z o.o.;Business Analysis Data analysis Data management Data structures;data analyst;ZDALNA;N/A;21840.0;26880.0;PLN
+HR Data Analyst;Nordcloud;HR MS Excel Data visualization Power BI;data analyst;ZDALNA;N/A;11000.0;13000.0;PLN
+[remote] Senior Data Analyst;Justpoint;Business Analysis Analytical skills BigQuery Data visualization;data analyst;ZDALNA;N/A;19991.0;27988.0;PLN
+Data & System Analyst (Fintech);Meniga sp. z o.o;Business Analysis System analysis REST SQL;data analyst;Warszawa;PL;18000.0;23000.0;PLN
+Data Analyst;Connectis_;Data Jira Atlassian ITIL;data analyst;Warszawa;PL;19500.0;21500.0;PLN
+Senior Data Analyst;hubQuest;Data SQL Power BI / Tableau Python / R;data analyst;ZDALNA;N/A;20000.0;26000.0;PLN
+Product Data Analyst;Jamf;Data SQL Data analysis Data visualization;data analyst;ZDALNA;N/A;7000.0;10000.0;PLN
+Global HR Master Data Analyst;Danish Crown GBS;Data MS Office MS Excel SAP;data analyst;Kraków;PL;0.0;0.0;PLN
+Remote Mid Data Analyst;Link Group;Data Data analysis AWS Power BI;data analyst;ZDALNA;N/A;18480.0;25200.0;PLN
+Senior Data Analyst;Alcon;Data Data analysis SQL Data Lake;data analyst;ZDALNA;N/A;0.0;0.0;PLN
+Master Data Management Analyst;Sylvamo Polska Sp. z o.o.;IT Support angielski;data analyst;Kraków;PL;11700.0;14300.0;PLN
+Data Engineer in Microsoft Azure Cloud;Avanade Poland;Data Data analyst Python Azure;data analyst;ZDALNA;N/A;19320.0;29400.0;PLN
+HR Student Assistant;Falck Digital Technology Poland;HR angielski;data analyst;Warsaw;PL;0.0;0.0;PLN
+Data Architect;AVENGA;Data Azure Microsoft Azure SQL;data analyst;ZDALNA;N/A;25200.0;30200.0;PLN
+Senior IT Analyst (FinTech);Infopulse;Business Analysis UI Prototyping Data mapping;data analyst;ZDALNA;N/A;21000.0;25200.0;PLN
+Azure Data Engineer - Remote;Link Group;Data SQL Cloud Azure Cloud;data analyst;ZDALNA;N/A;18480.0;23520.0;PLN
+Junior /MId SQL Specialist  - Remote;Link Group;Data SQL Azure Data Factory Data analysis;data analyst;ZDALNA;N/A;8400.0;16800.0;PLN
+Analityk IT;Ness Solution Sp. z o. o.;Business Analysis SQL UML Enterprise Architect;data analyst;Warszawa;PL;18480.0;21840.0;PLN
+Quantitative Research Analyst;Chorus One;Business Analysis Protocols Quantitative research Blockchain;data analyst;ZDALNA;N/A;7500.0;9166.0;USD
+Software Engineer - Data Platforms (Expert);VirtusLab;Data Java Big data Beam;data analyst;ZDALNA;N/A;26000.0;31000.0;PLN
+Remote Mid Data Engineer;Kingfisher plc.;Data Python AWS Data modelling;data engineer;ZDALNA;N/A;15000.0;19000.0;PLN
+Senior Data Engineer (Azure);GetInData | Part of Xebia;Data Microsoft azure Python Databricks;data engineer;ZDALNA;N/A;26880.0;33600.0;PLN
+Big Data Engineer;Kontakt.io;Data Python Java Kafka;data engineer;ZDALNA;N/A;26880.0;31920.0;PLN
+Cloud Data Engineer;VML Enterprise Solutions;Data Python SQL AWS;data engineer;ZDALNA;N/A;13000.0;17000.0;PLN
+Data Engineer Python;Connectis_;Data Python Databricks PySpark;data engineer;ZDALNA;N/A;28000.0;33000.0;PLN
+Senior Data Engineer;Digital Hub Warsaw at Bayer;Data Python ETL Cloud;data engineer;Warsaw;PL;18000.0;28000.0;PLN
+Data Engineer (Support team);Centrum Informatyki Statystycznej;Data Spark SQL Python;data engineer;Warszawa;PL;8000.0;14000.0;PLN
+Senior CUDA Math Libraries Engineer - Data & Image;NVIDIA;Embedded C C++ CUDA;data engineer;ZDALNA;N/A;0.0;0.0;PLN
+Senior Data Engineer;ITDS;Data Python Data engineering ETL;data engineer;Kraków;PL;21840.0;25200.0;PLN
+Senior Data Science Platform Engineer;NVIDIA;AI Machine learning Deep learning AI;data engineer;ZDALNA;N/A;0.0;0.0;PLN
+Senior Software Engineer - Data Clean Rooms;Snowflake;Data Java Distributed Systems ML;data engineer;Warsaw;PL;30000.0;60000.0;PLN
+Principal Data Scientist Engineer (1/515);Infolet;Data C++ Java Communication skills;data engineer;ZDALNA;N/A;31920.0;35280.0;PLN
+AI Engineer / Data Scientist;7N;Data Python Data science Big data;data engineer;ZDALNA;N/A;20160.0;26880.0;PLN
+Senior Data Scientist/ AI Engineer;SquareOne;Data Python AI SQL;data engineer;ZDALNA;N/A;23520.0;30240.0;PLN
+Senior Software Engineer (Data Experience);hyperexponential;Backend Rust AWS Functional programming;data engineer;Warszawa;PL;27000.0;33000.0;PLN
+Data Engineer CE;Siemens Healthineers;Data Snowflake Data science CRM;data engineer;ZDALNA;N/A;11000.0;21000.0;PLN
+Senior Data Engineer (Python / Snowflake);1dea;Data Python Snowflake SQL;data engineer;ZDALNA;N/A;23520.0;26880.0;PLN
+Senior Data Engineer;Sunscrapers;Data Python ETL Airflow;data engineer;ZDALNA;N/A;27000.0;34000.0;PLN
+Azure Data Engineer - Remote;Link Group;Data SQL Cloud Azure Cloud;data engineer;ZDALNA;N/A;18480.0;23520.0;PLN
+Data Engineer (IBM DataStage, Python);Devire;Data Ibm datastage Python ETL;data engineer;Gdynia;PL;21840.0;26880.0;PLN
+Senior NLP Data Scientist;Adaptiq;Data Python NLP Deep learning;data scientist;ZDALNA;N/A;21990.0;27988.0;PLN
+Data Scientist;nCube;Data Python Data science pandas;data scientist;ZDALNA;N/A;15993.0;25988.0;PLN
+Data Scientist;Cognitum Services SA;Data SQL Data analysis Forecasting;data scientist;ZDALNA;N/A;28560.0;36960.0;PLN
+Principal Data Scientist Engineer (1/515);Infolet;Data C++ Java Communication skills;data scientist;ZDALNA;N/A;31920.0;35280.0;PLN
+AI Engineer / Data Scientist;7N;Data Python Data science Big data;data scientist;ZDALNA;N/A;20160.0;26880.0;PLN
+Senior Data Scientist/ AI Engineer;SquareOne;Data Python AI SQL;data scientist;ZDALNA;N/A;23520.0;30240.0;PLN
+Data Scientist;Shelf;Data AI Data analytics NLP;data scientist;ZDALNA;N/A;23989.0;31986.0;PLN
+Remote Data Scientist;Webinterpret Poland Sp. z o.o.;Data Python Data analysis Machine learning;data scientist;ZDALNA;N/A;0.0;0.0;PLN
+Data Scientist;7N;Data Python pandas NumPy;data scientist;Warszawa;PL;21840.0;26880.0;PLN
+Senior Generative AI Data Scientist;Spyrosoft;Data Python Data science AI;data scientist;Warszawa;PL;18480.0;26880.0;PLN
+Lead Data Scientist (NLP, LLM, GenAI);Sigmoidal;Data Python LLM OpenAI;data scientist;ZDALNA;N/A;32000.0;44000.0;PLN
+Senior Data Scientist - Remote;Link Group;Data Python SQL angielski;data scientist;ZDALNA;N/A;25200.0;28560.0;PLN
+Lead Data Scientist;Addepto;AI Python Deep learning Machine learning;data scientist;ZDALNA;N/A;19000.0;34000.0;PLN
+Data Scientist with ML;AVENGA;Data Python Machine learning Keras;data scientist;ZDALNA;N/A;25700.0;27700.0;PLN
+Senior Data Scientist (NLP and LLMs), AI Research;Brainly Sp. z o.o.;Data Python NLP Transformers;data scientist;ZDALNA;N/A;26000.0;35000.0;PLN
+Data Scientist/Python Developer;apreel Sp. z o.o.;Backend Python Product development DevOps;data scientist;ZDALNA;N/A;25200.0;28560.0;PLN
+Data Scientist;Lingaro;Data Python Optimalization Azure;data scientist;ZDALNA;N/A;21840.0;25200.0;PLN
+Senior Data Scientist;SKY ENGINE AI;AI Computer vision Segmentation Machine learning;data scientist;Warsaw;PL;20000.0;28000.0;PLN
+Staff Machine Learning Engineer;Stellantis;Data Data scientist AWS Data science;data scientist;ZDALNA;N/A;20000.0;30000.0;PLN
+BI Developer;ITMatch;Business Intelligence Data scientist Python SQL;data scientist;Cracow;PL;17000.0;24000.0;PLN
